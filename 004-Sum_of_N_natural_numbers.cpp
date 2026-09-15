@@ -10,3 +10,4 @@ int main()
     cout << "The sum of n natural numbers is : " << sum;
     return 0;
 }
+ 
