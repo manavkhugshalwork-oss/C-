@@ -8,3 +8,4 @@ int main()
     std::cout << "The sum is : "<<c;
     return 0;
 }
+ 
