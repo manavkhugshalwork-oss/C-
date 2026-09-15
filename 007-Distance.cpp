@@ -15,3 +15,4 @@ int main()
     cout << "The speed is : " << speed;
     return 0;
 }
+ 
