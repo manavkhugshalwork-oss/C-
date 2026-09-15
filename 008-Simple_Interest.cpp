@@ -14,3 +14,4 @@ int main()
     cout << "The simple interest is : " << si;
     return 0;
 }
+ 
